@@ -1,5 +1,9 @@
 ## Docker Desktop for Windows
 
+> [!NOTE]
+> This repository is being sunset in favor of [desktop-feedback](http://dockr.ly/desktop-feedback).  
+> Existing issues will remain here but will be moved to the new repository as they are updated.
+
 ### Getting Docker Desktop for Windows
 
 Docker Desktop for Windows is free to [download](https://hub.docker.com/editions/community/docker-ce-desktop-windows).
